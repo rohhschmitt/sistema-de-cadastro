@@ -11,7 +11,7 @@ A função é de acesso as categorias.
 > Como os usuários podem utilizá-lo:
 Para usar esse programa você precisa de:
 ```
-nmp Install react exemplo!
+node app.js
 ```
 
 > Onde os usuários podem encontrar ajuda sobre seu projeto:
